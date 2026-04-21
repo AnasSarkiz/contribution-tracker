@@ -1,12 +1,19 @@
 {
   "0hmX": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 4,
     "rejectionsReceived": 0,
-    "approvalsReceived": 1,
-    "staffReviewedPrs": 1,
+    "approvalsReceived": 2,
+    "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 1,
+    "staffApprovalsReceived": 2,
     "staffReviewedPrLinks": [
+      {
+        "number": 939,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/939",
+        "title": "Add tiny hypergraph BFS wrapper debugger",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 923,
         "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/923",
@@ -17,8 +24,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 16,
-    "prsMerged": 6,
+    "prsOpened": 18,
+    "prsMerged": 8,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -27,24 +34,31 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 11,
+    "score": 16,
     "stars": "⭐⭐",
-    "major": 2,
+    "major": 3,
     "minor": 0,
-    "tiny": 3
+    "tiny": 4
   },
   "Abse2001": {
-    "reviewsReceived": 18,
+    "reviewsReceived": 19,
     "rejectionsReceived": 2,
-    "approvalsReceived": 5,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 6,
+    "staffReviewedPrs": 5,
     "staffRejectionsReceived": 2,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
       {
         "number": 741,
         "url": "https://github.com/tscircuit/pcb-viewer/pull/741",
         "title": "Add smooth error-focused zoom with bounds-based targeting and animated viewport transforms",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 384,
+        "url": "https://github.com/tscircuit/easyeda-converter/pull/384",
+        "title": "Refactor CAD offset logic to use model bounds + SVG origin extraction",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -70,14 +84,14 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 7,
+    "approvalsGiven": 8,
     "rejectionsGiven": 0,
-    "prsOpened": 8,
+    "prsOpened": 9,
     "prsMerged": 7,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 3,
+    "distinctPrsReviewedNonCodeOwner": 4,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -91,24 +105,32 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 4,
-    "score": 27,
+    "score": 28,
     "stars": "⭐⭐",
     "major": 4,
     "minor": 1,
     "tiny": 2
   },
   "AnasSarkiz": {
-    "reviewsReceived": 8,
+    "reviewsReceived": 11,
     "rejectionsReceived": 0,
-    "approvalsReceived": 8,
-    "staffReviewedPrs": 0,
+    "approvalsReceived": 11,
+    "staffReviewedPrs": 1,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 949,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/949",
+        "title": "improves margin-aware violation detection",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 15,
-    "prsMerged": 9,
+    "prsOpened": 22,
+    "prsMerged": 14,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -117,11 +139,25 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 24,
+    "reposOwned": [
+      {
+        "repo": "tscircuit/circuit-json-to-lbrn",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "repo": "tscircuit/pcbburn.com",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "score": 32,
     "stars": "⭐⭐",
-    "major": 4,
+    "major": 5,
     "minor": 3,
-    "tiny": 2
+    "tiny": 6
   },
   "Angelebeats": {
     "reviewsReceived": 3,
@@ -324,13 +360,36 @@
     "minor": 4,
     "tiny": 4
   },
-  "ShiboSoftwareDev": {
-    "reviewsReceived": 11,
+  "Sang-it": {
+    "reviewsReceived": 3,
     "rejectionsReceived": 0,
-    "approvalsReceived": 7,
-    "staffReviewedPrs": 7,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 2,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "ShiboSoftwareDev": {
+    "reviewsReceived": 23,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 9,
+    "staffReviewedPrs": 9,
     "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 7,
+    "staffApprovalsReceived": 9,
     "staffReviewedPrLinks": [
       {
         "number": 532,
@@ -338,6 +397,20 @@
         "title": "add insertion_direction property to pcb_component",
         "staffApprovals": 1,
         "staffRejections": 1
+      },
+      {
+        "number": 638,
+        "url": "https://github.com/tscircuit/props/pull/638",
+        "title": "Removed \"x+\", \"x-\", \"y+\", and \"y-\" from footprintInsertionDirection",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 633,
+        "url": "https://github.com/tscircuit/props/pull/633",
+        "title": "add insertionDirection to FootprintProps",
+        "staffApprovals": 1,
+        "staffRejections": 0
       },
       {
         "number": 383,
@@ -382,22 +455,22 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 3,
+    "approvalsGiven": 4,
     "rejectionsGiven": 0,
-    "prsOpened": 14,
-    "prsMerged": 9,
+    "prsOpened": 18,
+    "prsMerged": 10,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 3,
+    "distinctPrsReviewedNonCodeOwner": 4,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 28,
+    "score": 33,
     "stars": "⭐⭐",
-    "major": 4,
+    "major": 5,
     "minor": 4,
     "tiny": 1
   },
@@ -457,7 +530,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 6,
+    "prsOpened": 7,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -517,17 +590,38 @@
     "stars": ""
   },
   "imrishabh18": {
-    "reviewsReceived": 7,
+    "reviewsReceived": 11,
     "rejectionsReceived": 0,
-    "approvalsReceived": 3,
-    "staffReviewedPrs": 3,
+    "approvalsReceived": 7,
+    "staffReviewedPrs": 7,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 7,
     "staffReviewedPrLinks": [
+      {
+        "number": 556,
+        "url": "https://github.com/tscircuit/circuit-json/pull/556",
+        "title": "Add `min_board_edge_spacing` to manufacturing DRC properties",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 550,
         "url": "https://github.com/tscircuit/circuit-json/pull/550",
         "title": "Add pcb_via_trace_clearance_error schema and tests",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 2161,
+        "url": "https://github.com/tscircuit/core/pull/2161",
+        "title": "Use the `jlcpcb-manufacturing-specs` module for the manufacturing values",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 2160,
+        "url": "https://github.com/tscircuit/core/pull/2160",
+        "title": "min_trace_width value should be 0.1mm",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -544,34 +638,47 @@
         "title": "Modify the default `net_settings` for the project",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 1,
+        "url": "https://github.com/tscircuit/jlcpcb-manufacturing-specs/pull/1",
+        "title": "Add the jlcMinTolerances and jlcPreferredTolerances",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 4,
-    "rejectionsGiven": 2,
-    "prsOpened": 23,
-    "prsMerged": 21,
+    "approvalsGiven": 6,
+    "rejectionsGiven": 1,
+    "prsOpened": 35,
+    "prsMerged": 31,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 3,
+    "distinctPrsReviewedNonCodeOwner": 4,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "distinctPrsReviewedAsCodeOwner": 1,
+    "distinctPrsReviewedAsCodeOwner": 2,
     "reposOwned": [
       {
         "repo": "tscircuit/circuit-to-svg",
         "paths": [
           "*"
         ]
+      },
+      {
+        "repo": "tscircuit/tscircuit.com",
+        "paths": [
+          "*"
+        ]
       }
     ],
-    "score": 41,
-    "stars": "⭐⭐",
-    "major": 3,
-    "minor": 10,
-    "tiny": 8
+    "score": 53,
+    "stars": "⭐⭐⭐",
+    "major": 4,
+    "minor": 15,
+    "tiny": 12
   },
   "liufang88789-ui": {
     "reviewsReceived": 0,
@@ -736,12 +843,12 @@
     "stars": ""
   },
   "rushabhcodes": {
-    "reviewsReceived": 31,
+    "reviewsReceived": 41,
     "rejectionsReceived": 0,
-    "approvalsReceived": 13,
-    "staffReviewedPrs": 2,
+    "approvalsReceived": 16,
+    "staffReviewedPrs": 4,
     "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 2,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
       {
         "number": 543,
@@ -756,39 +863,53 @@
         "title": "Auto-mirror bottom-layer pcb_note_text and add regression coverage",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 2,
+        "url": "https://github.com/tscircuit/tscircuit.com-landing/pull/2",
+        "title": "update GitHub star badge on the landing page",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1,
+        "url": "https://github.com/tscircuit/tscircuit.com-landing/pull/1",
+        "title": "Neobrutalism landing page with interactive onboarding, feature demos, and clearer conversion paths",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 3,
     "rejectionsGiven": 4,
-    "prsOpened": 14,
-    "prsMerged": 11,
+    "prsOpened": 21,
+    "prsMerged": 18,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 16,
+    "score": 39,
     "stars": "⭐⭐",
-    "major": 1,
-    "minor": 1,
-    "tiny": 9
+    "major": 2,
+    "minor": 3,
+    "tiny": 13
   },
   "seveibar": {
-    "reviewsReceived": 8,
+    "reviewsReceived": 9,
     "rejectionsReceived": 0,
-    "approvalsReceived": 1,
+    "approvalsReceived": 2,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 38,
+    "approvalsGiven": 50,
     "rejectionsGiven": 3,
-    "prsOpened": 53,
-    "prsMerged": 36,
+    "prsOpened": 60,
+    "prsMerged": 41,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 30,
+    "distinctPrsReviewedNonCodeOwner": 39,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -814,11 +935,11 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 5,
-    "score": 77,
+    "score": 79,
     "stars": "⭐⭐⭐",
-    "major": 18,
+    "major": 21,
     "minor": 10,
-    "tiny": 8
+    "tiny": 10
   },
   "shanimaury89-art": {
     "reviewsReceived": 0,
@@ -916,13 +1037,20 @@
     "tiny": 2
   },
   "techmannih2": {
-    "reviewsReceived": 10,
-    "rejectionsReceived": 1,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 1,
+    "reviewsReceived": 8,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 2,
+    "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 1,
+    "staffApprovalsReceived": 2,
     "staffReviewedPrLinks": [
+      {
+        "number": 210,
+        "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/210",
+        "title": "Use manufacturer_part_number for simple_chip PCB value text",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 202,
         "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/202",
@@ -934,7 +1062,7 @@
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
     "prsOpened": 3,
-    "prsMerged": 1,
+    "prsMerged": 2,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -943,10 +1071,10 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 4,
+    "score": 6,
     "stars": "⭐",
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "tiny": 0
   },
   "thegreatalxx": {
@@ -982,8 +1110,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 346,
-    "prsMerged": 268,
+    "prsOpened": 400,
+    "prsMerged": 314,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -992,10 +1120,10 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 13.5,
+    "score": 14.5,
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 268
+    "tiny": 314
   }
 }
